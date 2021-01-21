@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/Rayven/Documents/GitHub/bull-cow-game/Source/BullCowGame/BullCowGame.Build.cs",
+		"/Users/Rayven/Documents/GitHub/bull-cow-game/Source/BullCowGameEditor.Target.cs",
+		"/Users/Rayven/Documents/GitHub/bull-cow-game/Source/BullCowGame.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}
